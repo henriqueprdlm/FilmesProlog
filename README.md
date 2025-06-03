@@ -7,4 +7,4 @@ Abra o arquivo filmes.pl no compilador de Prolog de sua preferência (para desen
 Inicie o código com `?- iniciar.`
 
 ### Vídeo do funcionamento:
-[Link do YouTube do funcionamento do programa](youtube.com)
+[Link do YouTube do funcionamento do programa](https://youtu.be/JPZZ7zDzfLY)
